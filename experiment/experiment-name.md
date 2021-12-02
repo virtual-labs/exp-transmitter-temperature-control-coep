@@ -1,1 +1,1 @@
-## Configure a Transmitter for level control system
+## Configure a Transmitter for temperature control system
