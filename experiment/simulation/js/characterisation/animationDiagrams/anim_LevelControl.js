@@ -24,10 +24,10 @@ var width = $(window).width();
 	paper.setViewBox(0,0,w,h,true);
 	paper.setSize('100%', 700);
   }
-
+	
 
 	x = 40;
-	y = 180;
+	y = 120;
 
 	LC_lowlevel = lowerSpanLevel;
 	LC_highlevel = higherSpanLevel;
